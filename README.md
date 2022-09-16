@@ -43,18 +43,3 @@ Server runs on http://localhost:5000 and client runs on http://localhost:3000
 ```
 You need to setup your mongo database connection string in "config/default.json" folder and also the jwt secret
 ```
-
-# Project snapshot
-
-## User Homepage
-
-![image](https://user-images.githubusercontent.com/19981097/68968679-60cf0b00-080d-11ea-9175-819d59248224.png)
-
-## Author
-
-<blockquote>
-Contact me
-Email: filiukbohdan123@gmail.com
-</blockquote>
-
-========Thank You !!!=========
